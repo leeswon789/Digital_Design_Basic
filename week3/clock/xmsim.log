@@ -1,0 +1,9 @@
+xmsim(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
+
+-------------------------------------
+Relinquished control to SimVision...
+xcelium> 
+xcelium> ^C
+xcelium> exit
+xmsim: *W,NORUNCMD: No 'run' command issued.

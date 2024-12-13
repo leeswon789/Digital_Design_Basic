@@ -1,0 +1,11 @@
+xmvlog(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmvlog(64)	23.03-s013: Started on Sep 27, 2024 at 11:28:44 KST
+xmvlog
+    -MESS
+    -linedebug
+    ./clock_gen.v
+
+file: ./clock_gen.v
+	module clock_lib.clock_gen
+		errors: 0, warnings: 0
+TOOL:	xmvlog(64)	23.03-s013: Exiting on Sep 27, 2024 at 11:28:44 KST  (total: 00:00:00)

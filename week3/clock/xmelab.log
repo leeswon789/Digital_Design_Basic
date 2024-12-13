@@ -1,0 +1,23 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Sep 27, 2024 at 11:28:44 KST
+xmelab
+    -MESS
+    -access rwc
+    clock_gen
+
+	Elaborating the design hierarchy:
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		clock_lib.clock_gen:module <0x45a31dd3>
+			streams:   2, words:  1174
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 1       1
+		Registers:               1       1
+		Always blocks:           1       1
+		Initial blocks:          1       1
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: clock_lib.clock_gen:module
+TOOL:	xmelab(64)	23.03-s013: Exiting on Sep 27, 2024 at 11:28:44 KST  (total: 00:00:00)
